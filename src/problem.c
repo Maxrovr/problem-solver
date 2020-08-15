@@ -1,13 +1,3 @@
-/**
- * === DO NOT MODIFY THIS FILE ===
- * If you need some other prototypes or constants in a header, please put them
- * in another header file.
- *
- * When we grade, we will be replacing this file with our own copy.
- * You have been warned.
- * === DO NOT MODIFY THIS FILE ===
- */
-
 /*
  * This module implements a source of problems to be solved.
  */
